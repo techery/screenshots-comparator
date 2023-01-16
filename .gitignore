@@ -1,0 +1,5 @@
+node_modules/
+report/data/
+
+report/index.html
+.DS_Store
